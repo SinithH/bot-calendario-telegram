@@ -16,4 +16,4 @@ HEROKU_PG_DATABASE_URL = config('DATABASE_URL', default=None)
 
 NEXTCLOUD_MIDLEWARE_URL = 'https://middleware-nextcloud.herokuapp.com/'
 
-BOT_TOKEN = config('TG_CALENDAR_BOT_TOKEN', cast=str)
+BOT_TOKEN = config('1409955298:AAHJAe8xCIw8A96FR12p7InQufBfEAWV9pw', cast=str)
